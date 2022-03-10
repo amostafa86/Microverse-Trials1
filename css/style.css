@@ -1,10 +1,13 @@
 #main{
     text-align: center;
+    background: #eee;
 }
 #img-div{
-    width: 100%;
+    background: #fff;
+    padding: 10px;
 }
 #image{
+    max-width: 100%;
     height: auto;
 }
 #tribute-info{
