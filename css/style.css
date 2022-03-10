@@ -2,14 +2,20 @@
     text-align: center;
 }
 #img-div{
-    
-    height: 100%;
-    display: inline;
+    width: 100%;
 }
 #image{
-    
-    height:auto;
-    display: block;
-    max-width: 100%;
+ 
+    height: auto;
 }
-
+#tribute-info{
+    width: 50%;
+    margin: 0 auto;
+    display: block;
+}
+#unordered-list{
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+}
