@@ -18,3 +18,6 @@
     text-align: left;
     line-height: 1.6;
 }
+ul li{
+    padding: .5rem;
+}
